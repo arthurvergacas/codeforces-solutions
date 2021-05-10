@@ -14,7 +14,7 @@ int main() {
     getline(cin, line);
 
     // if (line.empty()) {
-    //   break;
+    //   continue;
     // }
     lines.push_back(line);
   }
